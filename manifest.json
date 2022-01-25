@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "The Prank Extension",
+  "version": "1.0.0",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["index.js"]
+    }
+  ],
+  "icons": {
+    "16": "smallest.png",
+    "32": "medium.png",
+    "48": "alittlelarger.png",
+    "128": "largest.png"
+  },
+  "description": "A harmless little prank to scare your friends!"
+}
