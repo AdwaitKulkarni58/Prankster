@@ -1,4 +1,4 @@
-# The Prank Extension:  
+# The Prank Chrome Extension:  
 
 <hr>
 
